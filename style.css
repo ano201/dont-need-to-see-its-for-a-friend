@@ -1,0 +1,63 @@
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100vw;
+  height: 100vh;
+}
+
+.one,.two,.three,.four,.five,.six{
+  line-height: 10px  !important;
+  font-size: 10px  !important;
+  background-repeat: no-repeat  !important;
+  background-attachment: fixed  !important;
+  background-size: 100vw  !important;
+  -webkit-background-clip: text  !important;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.1)  !important;
+}
+
+button {
+  background: #3F4586;
+  padding: 5px;
+  display: block;
+  font-size: 30px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 2px solid #2B3CF5;
+  border-radius: 5px;
+}
+
+a,
+a:visited,
+a:active {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.one {
+  background: url(IMG_20211018_045922.jpg);
+}
+
+.two {
+  background: url(FB_IMG_16352704233512195.jpg);
+}
+
+.three {
+  background: url(FB_IMG_16352704299860111.jpg);
+}
+
+.four {
+  background: url(FB_IMG_16352704599271032.jpg);
+}
+
+.five {
+  background: url(FB_IMG_16352704727847255.jpg);
+}
+
+.six {
+  background: url(FB_IMG_16352704823688810.jpg);
+}
